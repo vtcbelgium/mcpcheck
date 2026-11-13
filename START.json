@@ -1,0 +1,18 @@
+{
+  "authority": "NONE",
+  "externalActionsAuthorized": false,
+  "intent": {
+    "description": "Free client-side Model Context Protocol (MCP) config & tool schema risk scanner.",
+    "mode": "LOCAL_STAGE2_CUSTOMIZED_SCRATCH_ONLY",
+    "modelId": "qwen2.5-coder:7b",
+    "runId": "dk01-mcpcheck-1794529518",
+    "schema": "othrys.cortex.dk01-customizer.v1",
+    "slug": "mcpcheck",
+    "task": "Audit Claude / Cursor / Windsurf MCP configuration files and tool definitions for security risks, toxic parameters, command injection vectors, and unauthorized network endpoints.",
+    "titanId": "theia",
+    "title": "MCPCheck"
+  },
+  "intentSha256": "db2026f5d921b6cdc007039af05982294972128b05a834790e060db72f8943bf",
+  "paidApiCalls": 0,
+  "startedAt": "2026-11-13T00:25:18+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "customizedFields": {
+    "customFaqAnswer": "You can scan MCP configuration files and tool definitions.",
+    "customFaqQuestion": "What types of files can I scan with MCPCheck?",
+    "eyebrow": "ZERO-COOKIE \u00b7 ZERO-UPLOAD \u00b7 INSTANT",
+    "heroSubtitle": "Scan MCP config files for security risks, toxic parameters, command injection vectors, and unauthorized network endpoints.",
+    "inputPlaceholder": "Paste MCP config file here",
+    "primaryCta": "SCAN NOW"
+  },
+  "customizedFieldsSha256": "3e2ad01c2ea32778aae2c4229ec4eef9275cde7e9cb6bbafe120942637267bee",
+  "inferenceMs": 4047,
+  "modelId": "qwen2.5-coder:7b",
+  "paidApiCalls": 0,
+  "promptSha256": "2ba684f6a8bff5a12f368b19e90e75c631410a088c1fbda1370d4fcfcb8316e4",
+  "runId": "dk01-mcpcheck-1794529518",
+  "schema": "othrys.cortex.dk01-theia-receipt.v1",
+  "titanId": "theia",
+  "tokensIn": 303,
+  "tokensOut": 107
+}
