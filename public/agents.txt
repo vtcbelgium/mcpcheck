@@ -1,6 +1,6 @@
 Name: MCPCheck
 URL: https://mcpcheck.othrys.be/
-Description: MCPCheck is a lightweight, in-browser tool for checking the health and compatibility of Minecraft server versions. It runs entirely in the user's browser, with no server-side processing or data collection.
+Description: Client-side Model Context Protocol (MCP) configuration and tool schema risk scanner running entirely in your browser with zero server uploads.
 LLMs-Txt: https://mcpcheck.othrys.be/llms.txt
 Sitemap: https://mcpcheck.othrys.be/sitemap.xml
 Protocol: public-read-only

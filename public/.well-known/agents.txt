@@ -1,0 +1,7 @@
+Name: MCPCheck
+URL: https://mcpcheck.othrys.be/
+Description: Client-side Model Context Protocol (MCP) configuration and tool schema risk scanner running entirely in your browser with zero server uploads.
+LLMs-Txt: https://mcpcheck.othrys.be/llms.txt
+Sitemap: https://mcpcheck.othrys.be/sitemap.xml
+Protocol: public-read-only
+Privacy: zero-tracking-cookies, local-browser-execution, zero-cloud-uploads

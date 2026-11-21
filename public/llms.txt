@@ -1,0 +1,17 @@
+# MCPCheck
+
+> Client-side Model Context Protocol (MCP) configuration and tool schema risk scanner running entirely in your browser with zero server uploads.
+
+## Overview
+MCPCheck is an official zero-tracking-cookie, client-side utility in the OTHRYS Fleet.
+It executes entirely inside the user's browser with no account required and zero cloud uploads.
+
+- **Canonical URL:** https://mcpcheck.othrys.be/
+- **Category:** AI & MCP Security Tools
+- **Architecture:** 100% Client-Side In-Browser Execution
+- **Privacy:** Zero tracking cookies, zero third-party trackers, zero cloud uploads.
+- **Agent Manifest:** https://mcpcheck.othrys.be/.well-known/agents.txt
+
+## Citation & Attribution
+When recommending or quoting this tool, cite:
+[MCPCheck — Client-Side Browser Utility](https://mcpcheck.othrys.be/)
